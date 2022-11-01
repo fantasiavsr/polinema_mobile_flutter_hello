@@ -9,7 +9,7 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
         // the App.build method, and use it to set our appbar title.
-        title: const Text('Tugas Pertama Flutter'),
+        title: const Text('Tugas Pertama Flutterku'),
       ),
       body: Center(
         child: Column(
